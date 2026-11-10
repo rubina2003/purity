@@ -1,0 +1,14 @@
+# Data Processing & Custom Machine Learning (No Scikit-Learn)
+numpy>=2.0.0
+pandas>=2.2.0
+
+# Data Analysis & Visualization
+matplotlib>=3.9.0
+
+# Backend Web Application Framework & CORS
+flask>=3.0.0
+flask-cors>=5.0.0
+
+# Database Connectivity & Environment Configuration
+mysql-connector-python>=9.0.0
+python-dotenv>=1.0.0
